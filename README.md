@@ -1,6 +1,6 @@
 # periodicStokes
 
-This containing code to compute Stokes flow due to periodic arrays of regularized forces. 
+This contains CUDA codes to compute Stokes flow due to periodic arrays of regularized forces. 
 Current cases:
 - doubly-periodic arrays near a flat wall.
 Future cases:
